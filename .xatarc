@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://learn-with-joseph-75l2bu.us-east-1.xata.sh/db/kindeauth",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

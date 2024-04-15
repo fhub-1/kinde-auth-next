@@ -1,0 +1,17 @@
+{
+  "id": "mig_cobetd55la3quq2b1k4g",
+  "parentID": "mig_cobet6d5la3quq2b1k3g",
+  "checksum": "1:e6501e1c22f1cc1614c1258ce09b58c4e394aca772638a508faf85d570126d3b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "username",
+          "type": "string",
+          "unique": true
+        },
+        "table": "userProfile"
+      }
+    }
+  ]
+}
